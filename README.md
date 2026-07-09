@@ -1,4 +1,4 @@
-# LeetCode
+# LeetCode-MySQL-and-Python-Solutions
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
